@@ -1,5 +1,5 @@
 # Apache-Pyspark
 
-PysparkML
+PysparkML $ Sql
 
 The notebook shows how to get started with pyspark Machinelearning!.
